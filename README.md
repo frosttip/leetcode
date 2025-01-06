@@ -15,3 +15,4 @@
 | 2025-01-04 | 🟢 Easy      | 367. Valid Perfect Square                                     | Array         |
 | 2025-01-05 | 🟢 Easy      | 283. Move Zeroes                                              | Array         |
 | 2025-01-06 | 🟢 Easy      | 844. Backspace String Compare                                 | Array         |
+| 2025-01-06 | 🟢 Easy      | 977. Squares of a Sorted Array                                | Array         |
