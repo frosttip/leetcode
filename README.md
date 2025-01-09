@@ -16,3 +16,4 @@
 | 2025-01-05 | 🟢 Easy      | 283. Move Zeroes                                              | Array         |
 | 2025-01-06 | 🟢 Easy      | 844. Backspace String Compare                                 | Array         |
 | 2025-01-06 | 🟢 Easy      | 977. Squares of a Sorted Array                                | Array         |
+| 2025-01-10 | 🟠 Medium    | 209. Minimum Size Subarray Sum                                | Array         |
