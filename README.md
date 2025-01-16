@@ -18,3 +18,4 @@
 | 2025-01-06 | 🟢 Easy      | 977. Squares of a Sorted Array                                | Array         |
 | 2025-01-10 | 🟠 Medium    | 209. Minimum Size Subarray Sum                                | Array         |
 | 2025-01-11 | 🟠 Medium    | 904. Fruit Into Baskets                                       | Array         |
+| 2025-01-16 | 🔴 Hard      | 76. Minimum Window Substring                                  | Array         |
