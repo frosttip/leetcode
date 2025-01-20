@@ -19,3 +19,6 @@
 | 2025-01-10 | 🟠 Medium    | 209. Minimum Size Subarray Sum                                | Array         |
 | 2025-01-11 | 🟠 Medium    | 904. Fruit Into Baskets                                       | Array         |
 | 2025-01-16 | 🔴 Hard      | 76. Minimum Window Substring                                  | Array         |
+| 2025-01-20 | 🟠 Medium    | 59. Spiral Matrix II                                          | Array         |
+
+| 2025-01-18 |              | 58. 区间和                                                     | Array         |
