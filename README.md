@@ -23,5 +23,6 @@
 | 2025-01-24 | 🟢 Easy      | 203. Remove Linked List Elements                              | Linklist      |
 | 2025-01-24 | 🟠 Medium    | 707. Design Linked List                                       | Linklist      |
 | 2025-01-26 | 🟢 Easy      | 206. Reverse Linked List                                      | Linklist      |
+| 2025-01-29 | 🟠 Medium    | 24. Swap Nodes in Pairs                                       | Linklist      |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
