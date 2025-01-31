@@ -24,5 +24,7 @@
 | 2025-01-24 | 🟠 Medium    | 707. Design Linked List                                       | Linklist      |
 | 2025-01-26 | 🟢 Easy      | 206. Reverse Linked List                                      | Linklist      |
 | 2025-01-29 | 🟠 Medium    | 24. Swap Nodes in Pairs                                       | Linklist      |
+| 2025-01-31 | 🟠 Medium    | 19. Remove Nth Node From End of List                          | Linklist      |
+| 2025-01-31 | 🟢 Easy      | 160. Intersection of Two Linked Lists                         | Linklist      |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
