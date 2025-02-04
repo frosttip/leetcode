@@ -27,5 +27,6 @@
 | 2025-01-31 | 🟠 Medium    | 19. Remove Nth Node From End of List                          | Linklist      |
 | 2025-01-31 | 🟢 Easy      | 160. Intersection of Two Linked Lists                         | Linklist      |
 | 2025-02-03 | 🟠 Medium    | 142. Linked List Cycle II                                     | Linklist      |
+| 2025-02-04 | 🟢 Easy      | 242. Valid Anagram                                            | Hash Map      |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
