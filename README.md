@@ -31,5 +31,6 @@
 | 2025-02-06 | 🟢 Easy      | 1002. Find Common Characters                                  | Hash Map      |
 | 2025-02-07 | 🟢 Easy      | 349. Intersection of Two Arrays                               | Hash Map      |
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
+| 2025-02-12 | 🟠 Medium    | 1679. Max Number of K-Sum Pairs                               | Array         |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
