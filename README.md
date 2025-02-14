@@ -33,5 +33,6 @@
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
 | 2025-02-12 | 🟠 Medium    | 1679. Max Number of K-Sum Pairs                               | Array         |
 | 2025-02-14 | 🟢 Easy      | 202. Happy Number                                             | Hash Map      |
+| 2025-02-14 | 🟢 Easy      | 1. Two Sum                                                    | Hash Map      |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
