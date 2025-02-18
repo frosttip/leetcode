@@ -30,10 +30,13 @@
 | 2025-02-04 | 🟢 Easy      | 242. Valid Anagram                                            | Hash Map      |
 | 2025-02-06 | 🟢 Easy      | 1002. Find Common Characters                                  | Hash Map      |
 | 2025-02-07 | 🟢 Easy      | 349. Intersection of Two Arrays                               | Hash Map      |
-| 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
-| 2025-02-12 | 🟠 Medium    | 1679. Max Number of K-Sum Pairs                               | Array         |
 | 2025-02-14 | 🟢 Easy      | 202. Happy Number                                             | Hash Map      |
 | 2025-02-14 | 🟢 Easy      | 1. Two Sum                                                    | Hash Map      |
 | 2025-02-15 | 🟠 Medium    | 454. 4Sum II                                                  | Hash Map      |
+
+Mentor practice
+| 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
+| 2025-02-12 | 🟠 Medium    | 1679. Max Number of K-Sum Pairs                               | Array         |
+| 2025-02-18 | 🟠 Medium    | 3066. Minimum Operations to Exceed Threshold Value II         | Minimum heap  |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
