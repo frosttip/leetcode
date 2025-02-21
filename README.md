@@ -38,5 +38,6 @@ Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
 | 2025-02-12 | 🟠 Medium    | 1679. Max Number of K-Sum Pairs                               | Array         |
 | 2025-02-18 | 🟠 Medium    | 3066. Minimum Operations to Exceed Threshold Value II         | Minimum heap  |
+| 2025-02-21 | 🟠 Medium    | 3447. Assign Elements to Groups with Constraints              | Hash Map      |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
