@@ -33,6 +33,7 @@
 | 2025-02-14 | 🟢 Easy      | 202. Happy Number                                             | Hash Map      |
 | 2025-02-14 | 🟢 Easy      | 1. Two Sum                                                    | Hash Map      |
 | 2025-02-15 | 🟠 Medium    | 454. 4Sum II                                                  | Hash Map      |
+| 2025-02-22 | 🟠 Medium    | 15. 3Sum                                                      | Hash Map      |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
