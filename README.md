@@ -35,6 +35,7 @@
 | 2025-02-15 | 🟠 Medium    | 454. 4Sum II                                                  | Hash Map      |
 | 2025-02-22 | 🟠 Medium    | 15. 3Sum                                                      | Hash Map      |
 | 2025-03-05 | 🟠 Medium    | 18. 4Sum                                                      | Hash Map      |
+| 2025-03-11 | 🟢 Easy      | 344. Reverse String                                           | String        |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
