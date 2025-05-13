@@ -38,6 +38,7 @@
 | 2025-03-11 | 🟢 Easy      | 344. Reverse String                                           | String        |
 | 2025-03-12 | 🟢 Easy      | 541. Reverse String II                                        | String        |
 | 2025-03-17 | 🟠 Medium    | 151. Reverse Words in a String                                | String        |
+| 2025-05-07 | 🟢 Easy      | 459. Repeated Substring Pattern                               | String        |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
@@ -46,5 +47,7 @@ Mentor practice
 | 2025-02-21 | 🟠 Medium    | 3447. Assign Elements to Groups with Constraints              | Hash Map      |
 | 2025-03-28 | 🟠 Medium    | 739. Daily Temperatures                                       | stack         |
 | 2025-03-28 | 🟠 Medium    | 901. Online Stock Span                                        | stack         |
+|            | 🟠 Medium    | 2462. Total Cost to Hire K Workers                            |               |
+|            | 🟠 Medium    | 2542. Maximum Subsequence Score                               |               |
 
 | 2025-01-18 |              | 58. 区间和                                                     | Array         |
