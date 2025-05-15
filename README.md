@@ -41,6 +41,7 @@
 | 2025-05-07 | 🟢 Easy      | 459. Repeated Substring Pattern                               | String        |
 | 2025-05-13 | 🟢 Easy      | 232. Implement Queue using Stacks                             | stack         |
 | 2025-05-14 | 🟢 Easy      | 225. Implement Stack using Queues                             | queue         |
+| 2025-05-15 | 🟢 Easy      | 20. Valid Parentheses                                         | stack         |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
