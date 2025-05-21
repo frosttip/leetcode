@@ -43,6 +43,7 @@
 | 2025-05-14 | 🟢 Easy      | 225. Implement Stack using Queues                             | queue         |
 | 2025-05-15 | 🟢 Easy      | 20. Valid Parentheses                                         | stack         |
 | 2025-05-20 | 🟢 Easy      | 1047. Remove All Adjacent Duplicates In String                | stack         |
+| 2025-05-21 | 🟠 Medium    | 150. Evaluate Reverse Polish Notation                         | stack         |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
