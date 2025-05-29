@@ -44,6 +44,7 @@
 | 2025-05-15 | 🟢 Easy      | 20. Valid Parentheses                                         | stack         |
 | 2025-05-20 | 🟢 Easy      | 1047. Remove All Adjacent Duplicates In String                | stack         |
 | 2025-05-21 | 🟠 Medium    | 150. Evaluate Reverse Polish Notation                         | stack         |
+| 2025-05-29 | 🟠 Medium    | 347. Top K Frequent Elements                                  | priority queue|
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
