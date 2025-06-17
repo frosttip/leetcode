@@ -45,6 +45,10 @@
 | 2025-05-20 | 🟢 Easy      | 1047. Remove All Adjacent Duplicates In String                | stack         |
 | 2025-05-21 | 🟠 Medium    | 150. Evaluate Reverse Polish Notation                         | stack         |
 | 2025-05-29 | 🟠 Medium    | 347. Top K Frequent Elements                                  | priority queue|
+| 2025-06-03 | 🟢 Easy      | 144. Binary Tree Preorder Traversal                           | Binary tree   |
+| 2025-06-14 | 🟢 Easy      | 94. Binary Tree Inorder Traversal                             | Binary tree   |
+| 2025-06-17 | 🟢 Easy      | 144. Binary Tree Preorder Traversal                           | Binary tree   |
+| 2025-06-17 | 🟢 Easy      | 145. Binary Tree Postorder Traversal                          | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
