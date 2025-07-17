@@ -50,6 +50,7 @@
 | 2025-06-17 | 🟢 Easy      | 144. Binary Tree Preorder Traversal                           | Binary tree   |
 | 2025-06-17 | 🟢 Easy      | 145. Binary Tree Postorder Traversal                          | Binary tree   |
 | 2025-07-15 | 🟠 Medium    | 102. Binary Tree Level Order Traversal                        | Binary tree   |
+| 2025-07-17 | 🟠 Medium    | 107. Binary Tree Level Order Traversal II                     | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
