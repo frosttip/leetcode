@@ -49,6 +49,19 @@
         "xmemory": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "unordered_map": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "optional": "cpp",
+        "unordered_set": "cpp",
+        "queue": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stack": "cpp"
     }
 }
