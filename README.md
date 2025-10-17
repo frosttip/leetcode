@@ -54,6 +54,8 @@
 | 2025-09-30 | 🟠 Medium    | 199. Binary Tree Right Side View                              | Binary tree   |
 | 2025-10-01 | 🟢 Easy      | 637. Average of Levels in Binary Tree                         | Binary tree   |
 | 2025-10-04 | 🟠 Medium    | 429. N-ary Tree Level Order Traversal                         | Binary tree   |
+| 2025-10-04 | 🟠 Medium    | 515. Find Largest Value in Each Tree Row                      | Binary tree   |
+| 2025-10-17 | 🟠 Medium    | 116. Populating Next Right Pointers in Each Node              | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |

@@ -1,5 +1,6 @@
 {
     "github.copilot.enable": false,
+    "chat.disableAIFeatures": true,
     "files.associations": {
         "ostream": "cpp",
         "iostream": "cpp",
