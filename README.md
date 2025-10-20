@@ -56,6 +56,8 @@
 | 2025-10-04 | 🟠 Medium    | 429. N-ary Tree Level Order Traversal                         | Binary tree   |
 | 2025-10-04 | 🟠 Medium    | 515. Find Largest Value in Each Tree Row                      | Binary tree   |
 | 2025-10-17 | 🟠 Medium    | 116. Populating Next Right Pointers in Each Node              | Binary tree   |
+| 2025-10-19 | 🟢 Easy      | 104. Maximum Depth of Binary Tree                             | Binary tree   |
+| 2025-10-21 | 🟢 Easy      | 111. Minimum Depth of Binary Tree                             | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
