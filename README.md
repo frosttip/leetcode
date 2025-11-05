@@ -61,6 +61,7 @@
 | 2025-10-21 | 🟢 Easy      | 226. Invert Binary Tree                                       | Binary tree   |
 | 2025-10-23 | 🟢 Easy      | 101. Symmetric Tree                                           | Binary tree   |
 | 2025-11-04 | 🟢 Easy      | 222. Count Complete Tree Nodes                                | Binary tree   |
+| 2025-11-05 | 🟢 Easy      | 110. Balanced Binary Tree                                     | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
