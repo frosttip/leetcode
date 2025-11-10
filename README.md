@@ -64,6 +64,7 @@
 | 2025-11-05 | 🟢 Easy      | 110. Balanced Binary Tree                                     | Binary tree   |
 | 2025-11-07 | 🟢 Easy      | 257. Binary Tree Paths                                        | Binary tree   |
 | 2025-11-09 | 🟢 Easy      | 404. Sum of Left Leaves                                       | Binary tree   |
+| 2025-11-10 | 🟠 Medium    | 513. Find Bottom Left Tree Value                              | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
