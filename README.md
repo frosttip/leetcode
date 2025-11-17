@@ -66,6 +66,7 @@
 | 2025-11-09 | 🟢 Easy      | 404. Sum of Left Leaves                                       | Binary tree   |
 | 2025-11-10 | 🟠 Medium    | 513. Find Bottom Left Tree Value                              | Binary tree   |
 | 2025-11-17 | 🟢 Easy      | 112. Path Sum                                                 | Binary tree   |
+| 2025-11-17 | 🟠 Medium    | 106. Construct Binary Tree from Inorder and Postorder Traversal   | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
