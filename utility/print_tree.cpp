@@ -24,3 +24,13 @@ void printTree(TreeNode* root, int depth = 0) {
     // 再印左子樹
     printTree(root->left, depth + 1);
 }
+
+int main(int argc, char* argv[]) {
+    TreeNode* root = new TreeNode(1);
+    root->left = new TreeNode(2);
+    root->right =new TreeNode(3);
+
+    printTree(root);
+
+    return 0;
+}
