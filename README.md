@@ -69,6 +69,7 @@
 | 2025-11-17 | 🟠 Medium    | 106. Construct Binary Tree from Inorder and Postorder Traversal   | Binary tree   |
 | 2025-11-18 | 🟠 Medium    | 654. Maximum Binary Tree                                      | Binary tree   |
 | 2025-11-24 | 🟢 Easy      | 617. Merge Two Binary Trees                                   | Binary tree   |
+| 2025-11-25 | 🟢 Easy      | 700. Search in a Binary Search Tree                           | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
