@@ -16,9 +16,9 @@
 | 2025-01-05 | 🟢 Easy      | 283. Move Zeroes                                              | Array         |
 | 2025-01-06 | 🟢 Easy      | 844. Backspace String Compare                                 | Array         |
 | 2025-01-06 | 🟢 Easy      | 977. Squares of a Sorted Array                                | Array         |
-| 2025-01-10 | 🟠 Medium    | 209. Minimum Size Subarray Sum                                | Array         |
-| 2025-01-11 | 🟠 Medium    | 904. Fruit Into Baskets                                       | Array         |
-| 2025-01-16 | 🔴 Hard      | 76. Minimum Window Substring                                  | Array         |
+| 2025-01-10 | 🟠 Medium    | 209. Minimum Size Subarray Sum                                | Slide window  |
+| 2025-01-11 | 🟠 Medium    | 904. Fruit Into Baskets                                       | Slide window  |
+| 2025-01-16 | 🔴 Hard      | 76. Minimum Window Substring                                  | Slide window  |
 | 2025-01-20 | 🟠 Medium    | 59. Spiral Matrix II                                          | Array         |
 | 2025-01-24 | 🟢 Easy      | 203. Remove Linked List Elements                              | Linklist      |
 | 2025-01-24 | 🟠 Medium    | 707. Design Linked List                                       | Linklist      |
@@ -70,6 +70,7 @@
 | 2025-11-18 | 🟠 Medium    | 654. Maximum Binary Tree                                      | Binary tree   |
 | 2025-11-24 | 🟢 Easy      | 617. Merge Two Binary Trees                                   | Binary tree   |
 | 2025-11-25 | 🟢 Easy      | 700. Search in a Binary Search Tree                           | Binary tree   |
+| 2025-12-14 | 🟠 Medium    | 98. Validate Binary Search Tree                               | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
