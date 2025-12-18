@@ -71,6 +71,7 @@
 | 2025-11-24 | 🟢 Easy      | 617. Merge Two Binary Trees                                   | Binary tree   |
 | 2025-11-25 | 🟢 Easy      | 700. Search in a Binary Search Tree                           | Binary tree   |
 | 2025-12-14 | 🟠 Medium    | 98. Validate Binary Search Tree                               | Binary tree   |
+| 2025-12-18 | 🟢 Easy      | 530. Minimum Absolute Difference in BST                       | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
