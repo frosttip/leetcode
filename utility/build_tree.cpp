@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>  // for std::setw
 #include <vector>
+#include <queue>
 using namespace std;
 
 struct TreeNode{
@@ -13,6 +14,36 @@ struct TreeNode{
 };
 
 const int N = INT_MIN;
+
+//Build tree like leetcode, recommand.
+TreeNode* buildTreeLC(const vector<int>& arr, int nullVal = INT_MIN) {
+    if (arr.empty() || arr[0] == nullVal) return nullptr;
+
+    TreeNode* root = new TreeNode(arr[0]);
+    queue<TreeNode*> q;
+    q.push(root);
+
+    int i = 1;
+    while (!q.empty() && i < (int)arr.size()) {
+        TreeNode* node = q.front();
+        q.pop();
+
+        // left
+        if (i < (int)arr.size() && arr[i] != nullVal) {
+            node->left = new TreeNode(arr[i]);
+            q.push(node->left);
+        }
+        i++;
+
+        // right
+        if (i < (int)arr.size() && arr[i] != nullVal) {
+            node->right = new TreeNode(arr[i]);
+            q.push(node->right);
+        }
+        i++;
+    }
+    return root;
+}
 
 TreeNode* buildTreeHelper(const vector<int>& arr, int i, int nullVal) {
     // 超出範圍或是這個位置是 null，就回傳空指標
