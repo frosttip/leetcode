@@ -74,6 +74,7 @@
 | 2025-12-18 | 🟢 Easy      | 530. Minimum Absolute Difference in BST                       | Binary tree   |
 | 2025-12-26 | 🔴 Hard      | 239. Sliding Window Maximum                                   | Binary tree   |
 | 2025-12-30 | 🟢 Easy      | 501. Find Mode in Binary Search Tree                          | Binary tree   |
+| 2026-01-13 | 🟠 Medium    | 236. Lowest Common Ancestor of a Binary Tree                  | Binary tree   |
 
 Mentor practice
 | 2025-02-11 | 🟠 Medium    | 334. Increasing Triplet Subsequence                           | Array         |
